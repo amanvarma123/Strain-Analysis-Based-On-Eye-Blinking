@@ -4,7 +4,7 @@ Project Title - Strain Analysis Based On Eye Blinking
 
 Team Members :
 
-Indukuri Harish Varma - 20BBS0121 - indukuriharish.varma2020@vitstudent.ac.in
+Indukuri Harish Varma - 20BBS0013 - indukuriharish.varma2020@vitstudent.ac.in
 
 Penmatsa Yuva Sai Varma - 20BCT0153 - yuvasai.varmap2020@vitstuden.ac.in
 
